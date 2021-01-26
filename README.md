@@ -12,8 +12,7 @@ Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [facebo
 
 ### our Products
 
-- <a href="http://proxy.ciro-maciel.me/" target="_blank">Proxy</a> - all roads, One place
-- <a href="https://workspace.ciro-maciel.me/" target="_blank">Workspace</a> - simple, how Everything should be
+- <a href="/cozy/" target="_blank">coZy</a> - mais que seu Planner culinário
 
 #### Mudanças de Comportamento
 

@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<hr />
+
 <div style="text-align: right; float: right;">
  <span style="font-size: 11px"> made with ❤️  by </span>
  <a href="http://workspace.ciro-maciel.me" style="font-size: 11px" target="_blank">

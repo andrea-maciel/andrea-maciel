@@ -1,19 +1,21 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 
 <div style="text-align: right; float: right">
-<img width="96" style="border-radius: 4px;" src="https://avatars0.githubusercontent.com/u/349602?s=460&u=cf310de88444a92133decdaa8b8e75ffc5e77975&v=4" height="96" alt="">
+<img width="96" style="border-radius: 4px;" src="https://avatars.githubusercontent.com/u/1123859?s=460&u=cbd093d396d10f0f7564eb78cb76f3024dc3c0bb&v=4" height="96" alt="">
 </div>
 
 Hello! 👋My name is Andréa.
 
-I am [Software engineer](/expertise) in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
+I am 🎨 UX/UI Designer in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
 
-Connect with me via [instagram](https://www.instagram.com/ciro.maciel/), [facebook](https://www.facebook.com/ciro.maciel.git) or [email](mailto:ciro.maciel@c37.co)
+Connect with me via [instagram](https://www.instagram.com/by_andrea.maciel/), [facebook](https://www.facebook.com/by.andrea.maciel) or [email](mailto:by@andrea-maciel.me)
 
 ### our Products
 
 - <a href="/cozy/" target="_blank">coZy</a> - mais que seu Planner culinário
 
+
+<!--
 #### Mudanças de Comportamento
 
 - [Dieta de Gladiadores](https://www.netflix.com/br/title/81157840)

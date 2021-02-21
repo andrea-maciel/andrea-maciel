@@ -12,7 +12,7 @@ Connect with me via [instagram](https://www.instagram.com/by_andrea.maciel/), [f
 
 ### our Products
 
-- <a href="/cozy/" target="_blank">coZy</a> - mais que seu Planner culinário
+- <a href="" target="_blank">coZy</a> - mais que seu Planner culinário
 
 
 <!--

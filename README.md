@@ -6,7 +6,7 @@
 
 Hello! 👋My name is Andréa.
 
-I am 🎨 UX/UI Designer in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👨🏽👩🏻👦🏻)</a>
+I am 🎨 UX/UI Designer in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👩🏻👨🏽👦🏻)</a>
 
 Connect with me via [instagram](https://www.instagram.com/by_andrea.maciel/), [facebook](https://www.facebook.com/by.andrea.maciel) or [email](mailto:by@andrea-maciel.me)
 

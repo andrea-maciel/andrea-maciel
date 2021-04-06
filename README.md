@@ -1,10 +1,27 @@
+<script>
+
+  if (window.location.protocol != "https:"){
+      window.location.protocol = "https";
+  } 
+  document.title = "Andréa Fabiana Maciel - WebSite";
+  
+//   const link = document.createElement('link');
+  
+//   link.id = 'dynamic-favicon';
+//   link.rel = 'shortcut icon';
+//   link.href = 'https://raw.githubusercontent.com/ciro-maciel/website/master/assets/favicon.ico';
+  
+//   document.head.appendChild(link);  
+ 
+</script>
+
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 
 <div style="text-align: right; float: right">
-<img width="96" style="border-radius: 4px;" src="https://avatars.githubusercontent.com/u/1123859?s=460&u=cbd093d396d10f0f7564eb78cb76f3024dc3c0bb&v=4" height="96" alt="">
+<img width="96" style="border-radius: 60px;"  src="https://avatars.githubusercontent.com/u/1123859?s=460&u=cbd093d396d10f0f7564eb78cb76f3024dc3c0bb&v=4" height="96" alt="">
 </div>
 
-Hello! 👋My name is Andréa.
+Hello! 👋My name is <strong style='font-size:18px'>Andréa</strong>.
 
 I am 🎨 UX/UI Designer in a fantastic Family <a href="https://www.instagram.com/p/B_FxtLjJfeI/">(team 👩🏻👨🏽👦🏻)</a>
 
@@ -13,7 +30,7 @@ Connect with me via [instagram](https://www.instagram.com/by_andrea.maciel/), [f
 ### our Products
 
 - <a href="" target="_blank">coZy</a> - mais que seu Planner culinário
-
+- <a href="http://chef-menu-prod.s3-website-us-east-1.amazonaws.com/" target="_blank">Chef - Menu</a> -
 
 <!--
 #### Mudanças de Comportamento

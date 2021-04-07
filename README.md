@@ -30,7 +30,7 @@ Connect with me via [instagram](https://www.instagram.com/by_andrea.maciel/), [f
 ### our Products
 
 - <a href="" target="_blank">coZy</a> - mais que seu Planner culinário
-- <a href="http://chef-menu-prod.s3-website-us-east-1.amazonaws.com/" target="_blank">Chef - Menu</a> -
+- <a href="https://chef-menu.andrea-maciel.me/" target="_blank">Chef - Menu</a> -
 
 <!--
 #### Mudanças de Comportamento
